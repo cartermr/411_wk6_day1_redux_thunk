@@ -33,8 +33,7 @@ class About extends Component {
                         to use the word "Fake" in our name so that we don't 
                         get sued by the real&nbsp; 
                         <a style={{ color: 'mediumblue' }}
-                        href="https://www.cars.com"
-                        target="_blank">Cars.com</a>
+                        href="https://www.cars.com">Cars.com</a>
                         &nbsp;but we won't worry too much about that. We've provided a 
                         link to the actual cars.com above and we did not 
                         receive any money from them to do so. Although, there's 
